@@ -1,0 +1,7 @@
+var gulp = require('gulp');
+
+gulp.taksk('default', function(){
+//code here
+});
+
+
